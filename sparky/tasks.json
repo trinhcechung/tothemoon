@@ -1,0 +1,228 @@
+[
+        # Mini task 1: Join MiniApps Store Telegram group (1M SPARK + 10 SPIN)
+        {
+            "task_id": "684aaab0-20bd-4b9d-b3cb-25a5158c343e",
+            "platform": "TELEGRAM_GROUP",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "Join MiniApps Store Telegram group",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Mini task 2: DISCORD (1M SPARK + 10 SPIN)
+        {
+            "task_id": "f5a74a32-5f78-4768-8a88-366dc397d13c",
+            "platform": "DISCORD",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "DISCORD",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Mini task 3: Subscribe to MiniApps Store on YouTube (1M SPARK + 10 SPIN)
+        {
+            "task_id": "a2814357-4bf3-4908-8b59-ddab379bfdac",
+            "platform": "YOUTUBE_SUBSCRIBERS",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "Subscribe to MiniApps Store on YouTube",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Mini task 4: Follow us on X(Twitter) (1M SPARK + 10 SPIN)
+        {
+            "task_id": "6370c701-d429-4008-87f7-60930a8ace48",
+            "platform": "X",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "Follow us on X(Twitter)",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Mini task 5: Join MiniApps Store Telegram channel (1M SPARK + 10 SPIN)
+        {
+            "task_id": "7868e086-bb09-4aad-8bf5-8111e4b7d226",
+            "platform": "TELEGRAM_CHANNEL",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "Join MiniApps Store Telegram channel",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Mini task 6: Join MiniApps Store Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "7f712e8c-8dc0-43e4-aaac-7595b171219d",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "5c99582d-3bf3-4cf2-8861-3c72ff3968e8",
+            "name": "Join MiniApps Store Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 7: Join Sparky Telegram group (500k SPARK + 5 SPIN)
+        {
+            "task_id": "60434f6b-d960-4ead-af13-7a3d625f96ac",
+            "platform": "TELEGRAM_GROUP",
+            "customer_id": "272bcb00-5d68-435a-a2d3-abda2cdbfb92",
+            "name": "Join Sparky Telegram group",
+            "reward_coins": 500000,
+            "reward_spins": 5
+        },
+        # Task 8: Join us on Discord (1M SPARK + 10 SPIN)
+        {
+            "task_id": "16f9d2ae-b66f-48bc-afcf-820842a9493a",
+            "platform": "DISCORD",
+            "customer_id": "272bcb00-5d68-435a-a2d3-abda2cdbfb92",
+            "name": "Join us on Discord",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 9: Follow us on X(Twitter) (500k SPARK + 5 SPIN)
+        {
+            "task_id": "645128be-54cc-42f6-9b41-939f18c97b7f",
+            "platform": "X",
+            "customer_id": "272bcb00-5d68-435a-a2d3-abda2cdbfb92",
+            "name": "Follow us on X(Twitter)",
+            "reward_coins": 500000,
+            "reward_spins": 5
+        },
+        # Task 10: Subscribe to Youtube (500k SPARK + 10 SPIN)
+        {
+            "task_id": "460e7678-10d5-44da-b185-14c3e4bbecf7",
+            "platform": "YOUTUBE_SUBSCRIBERS",
+            "customer_id": "272bcb00-5d68-435a-a2d3-abda2cdbfb92",
+            "name": "Subscribe to Youtube",
+            "reward_coins": 500000,
+            "reward_spins": 10
+        },
+        # Task 11: Telegram Channel (500k SPARK + 5 SPIN)
+        {
+            "task_id": "e86f2a30-5f1c-4acd-8919-83ea617fed6b",
+            "platform": "TELEGRAM_CHANNEL",
+            "customer_id": "272bcb00-5d68-435a-a2d3-abda2cdbfb92",
+            "name": "Telegram Channel",
+            "reward_coins": 500000,
+            "reward_spins": 5
+        },
+        # Task 12: Join Farm Otters Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "fe1ac1a4-aefc-48e4-a990-350ff0d49e40",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "e23e1058-50d5-486c-aea9-df233cb5a1fd",
+            "name": "Join Farm Otters Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 13: Join Clarnium Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "07051d7c-e832-4fcd-ba0c-da59e7540836",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "9473a398-5c40-465c-aea1-b5b908d37f36",
+            "name": "Join Clarnium Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 14: Join Plux Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "21d85884-0117-4533-9797-35507c35eda5",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "1a868a7d-168e-490a-a234-33616ae7f004",
+            "name": "Join Plux Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 15: Join Mpay Card Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "f69b52b6-b11d-480c-b2dc-6e394bbf0cf7",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "f02a87da-c9c6-45d1-832e-3d5df67a2993",
+            "name": "Join Mpay Card Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 16: Join Betmode Luck Game (1M SPARK + 10 SPIN)
+        {
+            "task_id": "ab6f6c48-03eb-4ac3-9e59-4dc3d0235ed2",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "ba10a6ce-8451-4183-a479-2d243a690529",
+            "name": "Join Betmode Luck Game",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 17: Retweet on X (500k SPARK + 10 SPIN)
+        {
+            "task_id": "6fa787f7-1ca6-47b7-a1cc-2bd46fff5f36",
+            "platform": "X_RETWEET",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Retweet on X",
+            "reward_coins": 500000,
+            "reward_spins": 10
+        },
+        # Task 18: Retweet on X (500k SPARK + 10 SPIN)
+        {
+            "task_id": "ef10d731-53fd-4929-8bf5-fc7391f36728",
+            "platform": "X_RETWEET",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Retweet on X",
+            "reward_coins": 500000,
+            "reward_spins": 10
+        },
+        # Task 19: Subscribe to Sparky Campaign Youtube (100k SPARK + 10 SPIN)
+        {
+            "task_id": "5af371dd-e1d9-4160-8887-4f769a3044ca",
+            "platform": "YOUTUBE_VIEWS",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 100000,
+            "reward_spins": 10
+        },
+        # Task 20: Subscribe to Sparky Campaign Youtube (100k SPARK + 10 SPIN)
+        {
+            "task_id": "44469181-7bdc-4d80-918d-38374aff3928",
+            "platform": "YOUTUBE_VIEWS",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 100000,
+            "reward_spins": 10
+        },
+        # Task 21: Subscribe to Sparky Campaign Youtube (500k SPARK + 10 SPIN)
+        {
+            "task_id": "30dba602-22a7-4c43-ad33-b92fb9ad1fc6",
+            "platform": "X_RETWEET",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 500000,
+            "reward_spins": 10
+        },
+        # Task 22: Subscribe to Sparky Campaign Youtube (500k SPARK + 10 SPIN)
+        {
+            "task_id": "b35edc02-5abb-44b9-8152-06ce2ad3aabf",
+            "platform": "X_RETWEET",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 500000,
+            "reward_spins": 10
+        },
+        # Task 23: Subscribe to Sparky Campaign Youtube (100k SPARK + 10 SPIN)
+        {
+            "task_id": "1b2f0b50-79fd-4f4f-bfb7-52777b858188",
+            "platform": "YOUTUBE_VIEWS",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 100000,
+            "reward_spins": 10
+        },
+        # Task 24: Subscribe to Sparky Campaign Youtube (1M SPARK + 10 SPIN)
+        {
+            "task_id": "8d6ba912-e158-456a-8346-9056d9067f34",
+            "platform": "X_RETWEET",
+            "customer_id": "1041d117-0444-46d3-ba85-76ef8cfa1d35",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        },
+        # Task 25: Join Telegram Bot (1M SPARK + 10 SPIN)
+        {
+            "task_id": "8fcd3b3f-bd9d-4606-80ba-1f36a1d91ea3",
+            "platform": "TELEGRAM_BOT",
+            "customer_id": "1306c462-0b14-4ef5-8246-5aeda3bac3cc",
+            "name": "Subscribe to Sparky Campaign Youtube",
+            "reward_coins": 1000000,
+            "reward_spins": 10
+        }
+    ]
+    
